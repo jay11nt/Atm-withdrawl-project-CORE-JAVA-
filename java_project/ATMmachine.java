@@ -7,7 +7,6 @@ class ATM
 {
     float balance;
     int pin= 1234;
- 
     
     void checkpin()
     {
