@@ -81,17 +81,17 @@ class ATM
     	float amount = s.nextFloat();
     	
     	if (amount==balance)
-    	{
+    		{
     		System.out.println("insufficient balance");
-    	}
+    		}
     	
     	else
-    	{
+    		{
     		balance=balance-amount;
     		System.out.println("amount withdrawl sucessfully.");
-    	}
+    		}
     	
-    	menu();
+    	 menu();
     }
     
     
@@ -102,20 +102,17 @@ class ATM
     	float amount= s.nextFloat();
     	
     	if(amount>50000)
-    	{
+    	   {
     		System.out.println("above 50000RS/- deposit money, visit branch with PAN card");
-    	}
+    	   }
     	
     	else
-    	{
+    	   {
     		balance=balance+amount;
     		System.out.println("Amount deposited sucessfully");
-    	}
+    	   }
     	menu();
-    }
-    
-    
-    
+    }   
 }
 
 public class ATMmachine {
