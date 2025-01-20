@@ -29,7 +29,6 @@ class ATM
            }
     }
     
-    
     public void menu()
     {
     	System.out.println("enter your choice-");
@@ -40,7 +39,6 @@ class ATM
     	
     	Scanner s = new Scanner(System.in);
     	int option = s.nextInt();
-    	
     	
     	if(option==1)
     	   {
@@ -69,11 +67,10 @@ class ATM
     	
     }
     
-    
     public void checkBalance()
     {
     	System.out.println("balance-"+ balance);
-       menu();
+        menu();
     }
     
     
