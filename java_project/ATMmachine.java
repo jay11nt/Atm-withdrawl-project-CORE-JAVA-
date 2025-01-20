@@ -19,14 +19,14 @@ class ATM
         
         
         if(pin==1234)
-        {
+            {
         	menu();
-        }
+             }
         
         else
-        {
+           {
         	System.out.println("enter a valid pin");
-        }
+           }
     }
     
     
@@ -43,28 +43,28 @@ class ATM
     	
     	
     	if(option==1)
-    	{
-    		checkBalance();
-    	}
-    	else if (option==2)
-       	{
-    		withdrawMoney();
-    	}
+    	   {
+    	      checkBalance();
+    	   }
+    		  else if (option==2)
+         		{
+    		 	 withdrawMoney();
+    	       	 	}
     	
-    	else if(option==3)
-    	{
-    		depositMoney();
-    	}
+    		 else if(option==3)
+    	 		{
+    		  	 depositMoney();
+    			}
     	
-    	else if(option==4)
-    	{
-    		//exit(); 
-    		return;
-    	}
+    		else if(option==4)
+    			{
+    		  	  //exit(); 
+    		  	  return;
+    			}
     	
     	else
     	{
-    		System.out.println("invalid choice try again");
+    	    System.out.println("invalid choice try again");
     	}
     	
     }
