@@ -45,7 +45,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
 **1. Enter PIN:** Users must enter the correct PIN (1234) to proceed.
 
-**Menu Options:**
+**2. Menu Options:**
 
 Press 1 to check balance.
 
@@ -55,18 +55,18 @@ Press 3 to deposit money.
 
 Press 4 to exit.
 
-**Balance Check:** Displays the current balance.
+**3. Balance Check:** Displays the current balance.
 
-**Withdraw Money:**
+**4. Withdraw Money:**
 
 Enter the withdrawal amount.
 
 Ensures sufficient balance before allowing withdrawal.
 
-**Deposit Money:**
+**5. Deposit Money:**
 
 Enter the deposit amount.
 
 If the deposit exceeds Rs.50,000, a PAN card is required.
 
-**Exit:** The program terminates.
+**6. Exit:** The program terminates.
