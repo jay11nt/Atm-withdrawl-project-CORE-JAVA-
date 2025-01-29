@@ -70,3 +70,11 @@ Enter the deposit amount.
 If the deposit exceeds Rs.50,000, a PAN card is required.
 
 **6. Exit:** The program terminates.
+
+Notes
+
+If an incorrect PIN is entered, access is denied.
+
+Withdrawals cannot exceed the available balance.
+
+Deposits above Rs.50,000 require branch verification.
