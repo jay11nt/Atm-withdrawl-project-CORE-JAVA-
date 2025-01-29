@@ -31,3 +31,11 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
   Java
 
   Scanner class for user input
+
+**How to Run the Project-**
+
+      1.download the source files.
+      2.Open the project in any Java-supported IDE (e.g., IntelliJ IDEA, Eclipse, VS Code).
+      3.Compile and run ATMmachine.java.
+      4.Enter your PIN (default: 1234) to access the menu.
+      5.Choose the desired banking operation.
