@@ -22,9 +22,9 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
  - Withdraw money with balance validation
 
-  Deposit money with a limit check
+ - Deposit money with a limit check
 
-  Menu-driven interface for user interaction
+ - Menu-driven interface for user interaction
 
 **Technologies Used**
 
