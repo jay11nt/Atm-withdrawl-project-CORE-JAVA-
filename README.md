@@ -16,11 +16,11 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
 **Features-**
 
-  PIN-based authentication
+ - PIN-based authentication
 
-  Check account balance
+ - Check account balance
 
-  Withdraw money with balance validation
+ - Withdraw money with balance validation
 
   Deposit money with a limit check
 
