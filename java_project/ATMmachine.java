@@ -65,8 +65,6 @@ class ATM
 	    	System.out.println("balance-"+ balance);
 	        menu();
 	    }
-    
-    
 	    public void withdrawMoney()
 	    {
 	    	System.out.println("enter amount to withdraw-");
