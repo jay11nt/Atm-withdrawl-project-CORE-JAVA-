@@ -2,7 +2,6 @@ package java_project;
 
 import java.util.Scanner;
 
-
 class ATM 
 {
     float balance;
@@ -54,7 +53,7 @@ class ATM
 	    		  	  //exit(); 
 	    		  	  return;
 	    			}
-	    	
+	    
 	    	else
 	    	{
 	    	    System.out.println("invalid choice try again");
