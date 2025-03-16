@@ -53,7 +53,6 @@ class ATM
 	    		  	  //exit(); 
 	    		  	  return;
 	    			}
-	    
 	    	else
 	    	{
 	    	    System.out.println("invalid choice try again");
