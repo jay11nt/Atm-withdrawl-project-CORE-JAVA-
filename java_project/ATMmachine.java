@@ -84,8 +84,7 @@ class ATM
 	    	
 	    	 menu();
 	    }
-    
-    
+	
 	    public void depositMoney()
 	    {
 	    	System.out.println("enter deposit amount");
