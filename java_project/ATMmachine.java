@@ -25,7 +25,6 @@ class ATM
 	        	System.out.println("enter a valid pin");
 	           }
         }
-    
 	    public void menu()
 	    {
 	    	System.out.println("enter your choice-");
