@@ -71,7 +71,7 @@ If the deposit exceeds Rs.50,000, a PAN card is required.
 
 **6. Exit:** The program terminates.
 
-Notes -
+**Notes -**
 
 If an incorrect PIN is entered, access is denied.
 
