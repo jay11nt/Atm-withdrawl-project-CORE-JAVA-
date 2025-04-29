@@ -28,7 +28,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
 **Technologies Used**
 
-  Java
+ - Java
 
   Scanner class for user input
 
