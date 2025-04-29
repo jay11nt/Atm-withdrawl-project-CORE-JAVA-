@@ -30,7 +30,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
  - Java
 
-  Scanner class for user input
+ - Scanner class for user input
 
 **How to Run the Project-**
 
