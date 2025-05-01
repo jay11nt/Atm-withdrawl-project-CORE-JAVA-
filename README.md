@@ -51,7 +51,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
 - Press 2 to withdraw money.
 
-Press 3 to deposit money.
+- Press 3 to deposit money.
 
 Press 4 to exit.
 
