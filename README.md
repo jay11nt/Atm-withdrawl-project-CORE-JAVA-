@@ -47,7 +47,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
 **2. Menu Options:**
 
-Press 1 to check balance.
+- Press 1 to check balance.
 
 Press 2 to withdraw money.
 
