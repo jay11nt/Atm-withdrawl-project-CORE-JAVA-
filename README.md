@@ -26,7 +26,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
  - Menu-driven interface for user interaction
 
-**Technologies Used**
+**Technologies Used -**
 
  - Java
 
