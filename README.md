@@ -5,7 +5,7 @@
 
 This is a simple ATM Withdrawal project implemented in Java. It allows users to perform basic banking transactions such as checking their account balance, withdrawing money, and depositing money. The system requires a valid PIN for authentication.
 
-### **Project Structure-**
+### **Project Structure -**
 
       java_project/
       │── src/
