@@ -73,7 +73,7 @@ If the deposit exceeds Rs.50,000, a PAN card is required.
 
 **Notes -**
 
-If an incorrect PIN is entered, access is denied.
+- If an incorrect PIN is entered, access is denied.
 
 Withdrawals cannot exceed the available balance.
 
