@@ -59,7 +59,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
 **4. Withdraw Money:**
 
-Enter the withdrawal amount.
+- Enter the withdrawal amount.
 
 Ensures sufficient balance before allowing withdrawal.
 
