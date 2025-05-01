@@ -53,7 +53,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
 - Press 3 to deposit money.
 
-Press 4 to exit.
+- Press 4 to exit.
 
 **3. Balance Check:** Displays the current balance.
 
