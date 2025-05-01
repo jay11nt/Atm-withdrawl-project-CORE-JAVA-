@@ -75,6 +75,6 @@ If the deposit exceeds Rs.50,000, a PAN card is required.
 
 - If an incorrect PIN is entered, access is denied.
 
-Withdrawals cannot exceed the available balance.
+- Withdrawals cannot exceed the available balance.
 
 Deposits above Rs.50,000 require branch verification.
