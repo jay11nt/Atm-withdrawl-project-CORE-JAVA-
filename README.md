@@ -49,7 +49,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
 - Press 1 to check balance.
 
-Press 2 to withdraw money.
+- Press 2 to withdraw money.
 
 Press 3 to deposit money.
 
