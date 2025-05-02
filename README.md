@@ -41,7 +41,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
       5.Choose the desired banking operation.
 
       
-### **Usage Guide-**
+### **Usage Guide -**
 
 **1. Enter PIN:** Users must enter the correct PIN (1234) to proceed.
 
