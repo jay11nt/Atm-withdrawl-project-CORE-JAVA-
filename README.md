@@ -32,7 +32,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
  - Scanner class for user input
 
-**How to Run the Project-**
+**How to Run the Project -**
 
       1.download the source files.
       2.Open the project in any Java-supported IDE ( IntelliJ IDEA, Eclipse, VS Code etc.)
