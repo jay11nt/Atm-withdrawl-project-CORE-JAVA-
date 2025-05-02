@@ -14,7 +14,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
       │── README.md
 
 
-**Features-**
+**Features -**
 
  - PIN-based authentication
 
