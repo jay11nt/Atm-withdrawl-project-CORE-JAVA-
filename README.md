@@ -67,7 +67,7 @@ This is a simple ATM Withdrawal project implemented in Java. It allows users to 
 
 - Enter the deposit amount.
 
-If the deposit exceeds Rs.50,000, a PAN card is required.
+- If the deposit exceeds Rs.50,000, a PAN card is required.
 
 **6. Exit:** The program terminates.
 
